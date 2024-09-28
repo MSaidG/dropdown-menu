@@ -1,0 +1,22 @@
+{
+  "name": "@msaidg/dropdown-menu",
+  "version": "1.0.0",
+  "description": "Simple drop down menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSaidG/dropdown-menu.git"
+  },
+  "keywords": [
+    "drop-down"
+  ],
+  "author": "MSaidG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MSaidG/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/MSaidG/dropdown-menu#readme"
+}
