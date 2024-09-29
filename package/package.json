@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/MSaidG/dropdown-menu/issues"
   },
-  "homepage": "https://github.com/MSaidG/dropdown-menu#readme"
+  "homepage": "https://github.com/MSaidG/dropdown-menu#readme",
+  "publishConfig": {
+  "access": "public",
+  "registry": "https://registry.npmjs.org/"
+  }
 }
